@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main(){
+    int cnt = 0;
+    while(1){
+        cout << "hello world" << cnt++ <<  endl;
+    }
+}
